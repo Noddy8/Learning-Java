@@ -1,5 +1,5 @@
 import java.util.*;
-public class Sixteen {
+public class _16Sixteen {
     public static void main(String[] args) {
         Scanner S = new Scanner(System.in);
         System.out.println("Enter a Number between 1-7:");

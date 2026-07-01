@@ -1,4 +1,4 @@
-public class Six {
+public class _6Six {
     public static void main(String[] args) {
         String a= "aa";
         String b= "bb";

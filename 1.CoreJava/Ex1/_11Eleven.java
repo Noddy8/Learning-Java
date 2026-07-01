@@ -1,4 +1,4 @@
-public class Eleven {
+public class _11Eleven {
     boolean booValue;
     int intValue;
     byte byteValue;
@@ -23,7 +23,7 @@ public class Eleven {
         System.out.println(objValue);
     } 
     public static void main(String[] args) {
-        Eleven test = new Eleven();
+        _11Eleven test = new _11Eleven();
         test.test();
 
     }

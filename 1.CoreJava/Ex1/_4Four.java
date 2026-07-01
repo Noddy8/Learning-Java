@@ -1,4 +1,4 @@
-public class Four {
+public class _4Four {
     public static void main(String[] args) {
         int L=10;
         double AreaOfSqure= L*L;

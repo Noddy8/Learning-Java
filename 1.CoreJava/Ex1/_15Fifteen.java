@@ -1,5 +1,5 @@
 import java.util.*;
-public class Fifteen {
+public class _15Fifteen {
     public static void main(String[] args) {
         Scanner s= new Scanner(System.in);
         int num = s.nextInt();

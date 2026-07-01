@@ -1,4 +1,4 @@
-public class Three {
+public class _3Three {
     public static void main(String[] args) {
         int P= 1000;
         double R= 2.5;

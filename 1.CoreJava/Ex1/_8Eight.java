@@ -1,4 +1,4 @@
-public class Eight {
+public class _8Eight {
     public static void main(String[] args) {
         // BMI = weight (KG)/ height^2 (meter).
         double weight= 80;

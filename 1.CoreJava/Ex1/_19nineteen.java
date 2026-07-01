@@ -1,5 +1,5 @@
 import java.util.*;
-public class nineteen {
+public class _19nineteen {
     public static void main(String[] args) {
         Scanner S = new Scanner(System.in);
         System.out.println("Enter 1st Number");

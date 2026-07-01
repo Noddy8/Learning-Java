@@ -1,5 +1,5 @@
 import java.util.*;
-public class Eighteen {
+public class _18Eighteen {
     public static void main(String[] args) {
         Scanner S = new Scanner(System.in);
         System.out.println("Enter a Year");

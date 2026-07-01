@@ -1,5 +1,5 @@
 import java.util.*;
-public class Fourteen {
+public class _14Fourteen {
     public static void main(String[] args) {
         Scanner S = new Scanner(System.in);
         System.out.println("Enter a num:");

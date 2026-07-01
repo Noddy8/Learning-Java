@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class Twelve {
+public class _12Twelve {
     public static void main(String[] args) {
         Scanner S = new Scanner(System.in);
         System.out.println("Enter a number:");

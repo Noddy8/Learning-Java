@@ -1,5 +1,5 @@
 import java.util.*;
-public class Thirteen {
+public class _13Thirteen {
     public static void main(String[] args) {
         Scanner S= new Scanner(System.in);
         System.out.println("Enter a num For checking Divisibity:");
